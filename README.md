@@ -1,5 +1,6 @@
 # Oi, Sou o Lucas. Bem vindo à meu Potfólio! :raising_hand:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasoliveiracs&label=Profile%20views&color=0e75b6&style=flat" alt="lucasoliveiracs" /> </p>  
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasocsilva/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/oliveiracsilva/) [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/lucasoliveiracs)
 
 ### Este é meu repositório pessoal e profissional onde você confere meus principais projetos, códigos, dicas e estudos.
