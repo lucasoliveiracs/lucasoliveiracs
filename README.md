@@ -7,7 +7,6 @@
 Construção de Sites | :computer:  
 Arte e Design | :art:  
 Campanhas de Publicidade | :loudspeaker: 
-  
 Social Media | :iphone:
 
   
