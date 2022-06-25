@@ -6,7 +6,7 @@
 
 Construção de Sites | :computer:  
 Arte e Design | :art:  
-Campanhas de Publicidade | :loudspeaker:
+Campanhas de Publicidade | :loudspeaker: 
 Social Media | :iphone:
 
 ### Languages and Frameworks:
