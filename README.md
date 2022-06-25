@@ -5,7 +5,6 @@
 ### Este é meu repositório pessoal e profissional onde você confere meus principais projetos, códigos, dicas e estudos.
 
 Construção de Sites | :computer:  
-Arte e Design | :art:  
 Social Media | :iphone: 
 Campanhas de Publicidade | :loudspeaker: 
 
