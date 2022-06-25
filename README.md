@@ -6,8 +6,8 @@
 
 Construção de Sites | :computer:  
 Arte e Design | :art:  
+Social Media | :iphone: 
 Campanhas de Publicidade | :loudspeaker: 
-Social Media | :iphone:
 
   
 ### Languages and Frameworks:
